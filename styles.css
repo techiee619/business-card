@@ -1,0 +1,36 @@
+body {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.avatar {
+    width: 150px;
+    border-radius: 50%;
+}
+
+.card {
+    border: 2px solid black;
+    width: 400px;
+    border-radius: 10px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #C591F9;
+    color: #2b2839;
+    font-style: italic;
+    border-bottom: 10px solid #EBC7E8;
+}
+
+.text-card {
+    border: 2px dotted black;
+}
+
+/*
+- shadows        🤯
+- hover effects  🤯🤯
+- animations     🤯🤯🤯
+*/
+
+
