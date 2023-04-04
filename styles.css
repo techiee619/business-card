@@ -20,17 +20,14 @@ body {
     background: yellow;
     color: #2b2839;
     font-style: italic;
+    border-right: 10px soild #00235B;
     border-bottom: 10px solid #00235B;
+    text-shadow: 
 }
 
 .text-card {
     border: 2px dotted black;
 }
 
-/*
-- shadows        🤯
-- hover effects  🤯🤯
-- animations     🤯🤯🤯
-*/
 
 
